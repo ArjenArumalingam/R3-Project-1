@@ -2,7 +2,7 @@
 R3 Seminar
 # Project Overview: # 
 
-The task of this project is to wire and program 2 motors to an Arduino using the L293D motor controller and using a potentiometer to control the motors speed with PWM. As well as that, you should use a dip switch to switch between control modes. This task will all be done online and simulated using Tinkercad. 
+The task of this project is to wire and program 2 motors to an Arduino using the L293D motor controller and using a potentiometer to control the motors speed with PWM. Use a dip switch to switch between control modes. This task will all be done online and simulated using Tinkercad. 
 <br>
 <br>
 
