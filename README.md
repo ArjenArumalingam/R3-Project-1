@@ -2,7 +2,7 @@
 R3 Seminar
 # Project Overview: # 
 
-The object of this project was to allow to DC motors to moves in four different directions; forward, backwards; left and right. The components used during this project: Arduino, breadboard, 2 L293D motor controller, and a potentiometer.
+The task of this project is to wire and program 2 motors to an Arduino using the L293D motor controller and using a potentiometer to control the motors speed with PWM. As well as that, you should use a dip switch to switch between control modes. This task will all be done online and simulated using Tinkercad. 
 <br>
 <br>
 
@@ -27,4 +27,4 @@ The object of this project was to allow to DC motors to moves in four different 
 
 >Name: Arjen Arumalingam <br>
 >Email: arjen.arumalingam@ryerson.ca <br>
->LinkedIn: 
+>LinkedIn: https://www.linkedin.com/in/arjen-arumalingam-4741381b6/
